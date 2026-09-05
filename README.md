@@ -41,4 +41,4 @@ Implementamos medidas de seguridad técnicas y organizativas comercialmente razo
 Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento. Las modificaciones entrarán en vigor inmediatamente después de su publicación en esta dirección web.
 
 ## 7. Contacto
-Si tienes preguntas sobre esta Política de Privacidad o deseas solicitar el borrado de tus datos, contáctanos en: **spprtnservice@gmail.com**
+Si tienes preguntas sobre esta Política de Privacidad o deseas solicitar el borrado de tus datos, contáctanos en: **spprtndservice@gmail.com**
