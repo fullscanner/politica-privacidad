@@ -1,5 +1,4 @@
 # politica-privacidad
-# Política de Privacidad
 
 **Última actualización:** Septiembre de 2026
 
